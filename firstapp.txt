@@ -1,4 +1,2 @@
 my source code
 Bob updated code
-my latest change
-made a change for now
